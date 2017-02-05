@@ -1,0 +1,7 @@
+<routes>
+    <vType accel="1.0" decel="5.0" id="Car" length="5.0" maxSpeed="70.0" sigma="0.0" vClass="passenger"/>
+    <flow id="carFlow" type="Car" beg="0" end="0" number="1" from="0" to="3"/>
+    
+    <!--  <route id="from0" edges="0 1 2 3 0 1 2 3" />
+    <vehicle depart="1" id="veh0" route="from0" type="Car" />-->
+</routes>
